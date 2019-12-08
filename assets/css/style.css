@@ -2,3 +2,16 @@ p {
     color: tomato;
     font-size: 30px;
 }
+
+/* To call by class */
+
+.myclasitalic {
+    color: aqua;
+    font-size:15px;
+    font-style: italic;
+}
+
+/* To call by id */
+#myidbold {
+    font-weight: bold;
+}
